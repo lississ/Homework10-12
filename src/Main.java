@@ -11,6 +11,7 @@ public class Main {
             System.out.println(weights[i]);
         }
 
+
         System.out.println();
 
         System.out.println("Домашняя работа");
